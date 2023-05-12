@@ -19,5 +19,4 @@ C++ for introduction to Object-oriented programming and file handling. This Proj
 
 # Screenshots
 
-![Img](https://github.com/Shreya1201/Bank-ATM-Sytem/assets/93670796/70fe2eaa-30da-4b4f-8e9c-a15ae0515d10)
-
+![Img1](https://github.com/Shreya1201/Bank-ATM-Sytem/assets/93670796/fe8c4801-dfde-4fa8-96cd-0949a637f23c)
